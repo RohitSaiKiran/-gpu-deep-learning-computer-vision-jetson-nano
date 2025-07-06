@@ -1,0 +1,12 @@
+numpy>=1.18
+scipy>=1.4
+pandas>=1.0
+matplotlib>=3.1
+jupyterlab>=2.0
+notebook>=6.0
+opencv-python>=4.2
+torch>=1.7
+torchvision>=0.8
+pycuda>=2021.1
+cupy-cuda11x>=9.0  # adjust for your Jetson CUDA version, could also be cupy-cuda10x
+numba>=0.49
