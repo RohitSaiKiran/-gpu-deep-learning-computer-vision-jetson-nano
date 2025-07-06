@@ -8,5 +8,5 @@ opencv-python>=4.2
 torch>=1.7
 torchvision>=0.8
 pycuda>=2021.1
-cupy-cuda11x>=9.0  # adjust for your Jetson CUDA version, could also be cupy-cuda10x
+cupy-cuda11x>=9.0
 numba>=0.49
