@@ -2,7 +2,7 @@
 This project demonstrates GPU-accelerated deep learning, time series forecasting, and computer vision on the Jetson Nano, optimized for edge computing.
 It highlights parallel programming techniques and efficient ML pipelines on embedded hardware.
 
-Labs :
+### Labs :
 
 Lab 1: Mandelbrot fractal rendering with PyCUDA, demonstrating GPU parallelism.
 
@@ -12,7 +12,7 @@ Lab 3: Time series forecasting and classification with PyTorch (GRU and Linear m
 
 Lab 4: Real-time image and video processing, feature tracking, and optical flow with OpenCV.
 
-Technologies used :
+### Technologies used :
 
 Hardware: NVIDIA Jetson Nano
 
@@ -20,7 +20,7 @@ Frameworks & Libraries: CUDA, PyCUDA, CuPy, Numba, PyTorch, OpenCV, Python, Jupy
 
 Domains: Parallel Programming, Deep Learning, Computer Vision, Time Series Forecasting
 
-Highlights :
+### Highlights :
 
 Real-time, GPU-accelerated ML & CV on edge hardware.
 
